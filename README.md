@@ -6,3 +6,4 @@ Chipotle Rita Ranch II project reports and coordination briefs.
 
 - [Open Construction Status](https://baseline120.github.io/CH_RRAZ-Project-Reports/construction-status.html)
 - [Open GC Coordination Brief](https://baseline120.github.io/CH_RRAZ-Project-Reports/gc-coordination-brief.html)
+- [Open Internal Project Status](https://baseline120.github.io/CH_RRAZ-Project-Reports/internal-project-status.html)
